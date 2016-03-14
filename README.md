@@ -1,4 +1,4 @@
-# gettting-and-cleaning-data
+# Getting and Cleaning Data
 
 Simply run the R program and it will download the source file.
 
